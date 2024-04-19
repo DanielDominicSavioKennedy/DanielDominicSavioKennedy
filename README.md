@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋! I'm Dominic Savio</h1>
 <h3 align="center">A Web Developer and a Machine Learning Enthusiast</h3>
-
+    
 ###
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
