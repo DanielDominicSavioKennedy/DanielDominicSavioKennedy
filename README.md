@@ -90,6 +90,6 @@
 
 ###
 
-Checkout my portfolio at: <a href="https://danieldominicsaviokennedy.github.io" target="_blank">Daniel Dominic Savio Kennedy</a>
+Checkout my portfolio at: <a href="https://danieldominicsaviokennedy.github.io" target="_blank">Daniel Dominic Savio Kennedy</a> 
 
 ###
