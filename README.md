@@ -1,4 +1,3 @@
- 
 <h1 align="center">Hi 👋! I'm Dominic Savio</h1>
 <h3 align="center">A Web Developer and a Machine Learning Enthusiast</h3>
     
